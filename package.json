@@ -1,0 +1,36 @@
+{
+  "name": "apiworker",
+  "version": "1.0.0",
+  "description": "this application works with the lol api to provide useful information",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.0.0",
+    "riot-api": "^0.1.0",
+    "socket.io": "^2.0.2",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PewhProgrammer/RiotApiWorker---JS.git"
+  },
+  "keywords": [
+    "riot",
+    "api",
+    "league",
+    "of",
+    "legends"
+  ],
+  "author": "Ba Thinh Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PewhProgrammer/RiotApiWorker---JS/issues"
+  },
+  "homepage": "https://github.com/PewhProgrammer/RiotApiWorker---JS#readme"
+}
